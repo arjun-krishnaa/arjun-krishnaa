@@ -14,9 +14,9 @@
 
 ## Featured Projects
 
-- Terraform Infrastructure as Code
+- Terraform Infrastructure as Code -
  _Automated multi-cloud provisioning and scalable deployments using Terraform._
-- AWS Automation Solutions
+- AWS Automation Solutions -
 _Designed and implemented cloud automation and infrastructure management on AWS._
 
 
